@@ -1,0 +1,18 @@
+<!--pages/subInto2/start/start.wxml-->
+<view id="main">
+  <text id="title">坡道定点停车和起步_半坡起步</text>
+  <text id="content">  科目二小路考之坡道定点停车和起步主要介绍了关于坡道定点停车和起步的方法以及坡道定点停车和起步技巧，帮助您全面掌握坡道定点停车和起步。</text>
+  <view id="list">
+    <view class="list">
+      <view class="num">1</view>
+      <view>打右转向灯</view>
+    </view>
+    <view class="list"><view class="num">2</view><view>踩刹车向右慢打方向盘</view></view>
+    <view class="list"><view class="num">3</view><view>车速降低20KM/H,利用惯性向前滑行</view></view>
+    <view class="list"><view class="num">4</view><view>拉手刹</view></view>
+    <view class="list"><view class="num">5</view><view>把变速杆拔到空挡位置</view></view>
+    <view class="list"><view class="num">6</view><view>左脚松开离合器</view></view>
+    <view class="list"><view class="num">7</view><view>右脚松脚刹</view></view>
+    <view class="list"><view class="num">8</view><view>关掉右转向灯</view></view>
+  </view>
+</view>

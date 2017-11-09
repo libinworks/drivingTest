@@ -1,0 +1,38 @@
+page{
+  background-color: #f7f7f7;
+  width: 750rpx;
+}
+#backTop{
+  height: 42px;
+  width: 42px;
+  line-height: 56px;
+  text-align: center;
+  background: rgba(255,255,255,0.6);
+  box-shadow: 0 0 4px 2px #258EA7;
+  position: fixed;
+  right: 6px;
+  bottom: 120px;
+  border-radius: 50%;
+}
+#backTop image{
+  width: 32px;
+  height: 32px;
+  opacity: 0.6;
+}
+#money{
+  height: 42px;
+  width: 42px;
+  line-height: 56px;
+  text-align: center;
+  background: rgba(255,255,255,0.6);
+  box-shadow: 0 0 4px 2px #258EA7;
+  position: fixed;
+  right: 6px;
+  bottom: 180px;
+  border-radius: 50%;
+}
+#money image{
+  width: 32px;
+  height: 32px;
+  opacity: 0.6;
+}

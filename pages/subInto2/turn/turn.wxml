@@ -1,0 +1,16 @@
+<!--pages/subInto2/turn/turn.wxml-->
+<view id="main">
+  <text id="title">直角转弯_直角转弯技巧</text>
+  <text id="content">科目二小路考之直角转弯主要介绍了关于直角转弯的方法以及直角转弯技巧，帮助您全面掌握直角转弯。</text>
+  <view id="list">
+    <view class="list">
+      <view class="num">1</view>
+      <view>一档通过，不加油门</view>
+    </view>
+    <view class="list"><view class="num">2</view><view>驶入考场时尽量紧贴右侧路牙</view></view>
+    <view class="list"><view class="num">3</view><view>车速降低20KM/H,利用惯性向前滑行</view></view>
+    <view id="te" class="list"><view class="num">4</view><view class="right">正前方路牙一旦被引擎盖挡住视线，就要向左猛打方向，直到打到底</view></view>
+    <view class="list"><view class="num">5</view><view>看到车头对准出口，就迅速将方向回正</view></view>
+  </view>
+</view>
+

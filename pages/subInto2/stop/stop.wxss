@@ -1,0 +1,18 @@
+/* pages/subInto2/stop/stop.wxss */
+#main{
+  padding: 10px;
+}
+#title{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin: 20px 0;
+}
+.content{
+  font-size: 18px;
+  line-height: 1.5;
+  display: block;
+  text-indent: 2em;
+  margin: 10px 0;
+}

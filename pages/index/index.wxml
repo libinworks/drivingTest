@@ -1,0 +1,40 @@
+<!--pages/index/index.wxml-->
+<view id="nav">
+  <navigator url="/pages/subject1/subject1" class="nav">
+    <image src="/imgs/subject_1.png"></image>
+    <view>科目一</view>
+  </navigator>
+  <navigator url="/pages/subject2/subject2" class="nav">
+    <image src="/imgs/subject_2.png"></image>
+    <view>科目二</view>
+  </navigator>
+  <navigator url="/pages/subject3/subject3" class="nav">
+    <image src="/imgs/subject_3.png"></image>
+    <view>科目三</view>
+  </navigator>
+  <navigator url="/pages/subject4/subject4" class="nav">
+    <image src="/imgs/subject_4.png"></image>
+    <view>科目四</view>
+  </navigator>
+</view>
+<view id="main">
+  <view id="header">学车指南</view>
+  <navigator url="/pages/indexInto/necessary/necessary" class="list">
+    <image src="/imgs/indexList1.jpg"></image>
+    <view>学车必藏！科目三加减档的操作要领</view>
+  </navigator>
+  <navigator url="/pages/indexInto/inside/inside" class="list">
+    <image src="/imgs/indexList2.jpg"></image>
+    <view>车管所内部资料：科目二最新操作要求和评判标准</view>
+  </navigator>
+  <navigator url="/pages/indexInto/time/time" class="list">
+    <image src="/imgs/indexList3.jpg"></image>
+    <view>11月起，考C1驾驶证要多少钱？多久能拿证？</view>
+  </navigator>
+  <navigator url="/pages/indexInto/study/study" class="list last">
+    <image src="/imgs/indexList4.png"></image>
+    <view>学车做好这3点，科目二不再挂在压线上</view>
+  </navigator>
+</view>
+<view id="footer">但愿人长久，莫恋杯中酒</view>
+<include src="../backToTop/backToTop.wxml" />  

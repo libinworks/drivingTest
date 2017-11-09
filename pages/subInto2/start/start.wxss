@@ -1,0 +1,37 @@
+/* pages/subInto2/start/start.wxss */
+#main{
+  padding: 10px;
+}
+#title{
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+}
+#content{
+  font-size: 18px;
+  color: #333;
+  margin: 20px 0;
+  display: block;
+}
+#list{
+  font-size: 18px;
+}
+.list{
+  display: flex;
+  flex-direction: row;
+  align-items: center; 
+  color: #333;
+  height: 40px;
+}
+.num{
+  width: 30px;
+  height: 30px;
+  background: #00acff;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  color: #fff;
+  margin-right: 10px;
+}

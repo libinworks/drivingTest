@@ -1,0 +1,56 @@
+/* pages/index/index.wxss */
+#nav{
+  height: 120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around; 
+  margin-top: 10px;
+}
+.nav{
+  width: 80px;
+  height: 110px;
+  border: 1px solid #eee;
+  background: hsla(0,0%,100%,.6);
+  text-align: center; 
+  font-size: 18px;
+  border-radius: 4px;
+}
+.nav>image{
+  width: 50px;
+  height: 50px;
+  margin: 13px 0 10px 0;
+}
+#main{
+  margin-top: 10px;
+  background: hsla(0,0%,100%,.5);
+  overflow: hidden;
+}
+#header{
+  font-size: 18px;
+  padding-left: 15px;
+  height: 50px;
+  line-height: 50px;
+}
+.list{
+  padding-left: 15px;
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+}
+.list>image{
+  width: 112px;
+  height: 70px;
+  margin-right: 10px;
+}
+.list view{
+  width: 250px;
+}
+.last{
+  margin-bottom: 12px;
+}
+#footer{
+  font-size: 18px;
+  text-align: center;
+  margin-top: 10px;
+}

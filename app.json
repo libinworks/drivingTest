@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/subject1/subject1",
+    "pages/subject2/subject2",
+    "pages/subject3/subject3",
+    "pages/subject4/subject4",
+    "pages/subInto2/storage/storage",
+    "pages/subInto2/start/start",
+    "pages/subInto2/stop/stop",
+    "pages/subInto2/going/going",
+    "pages/subInto2/turn/turn",
+    "pages/indexInto/necessary/necessary",
+    "pages/indexInto/inside/inside",
+    "pages/indexInto/time/time",
+    "pages/indexInto/study/study",
+    "pages/reward/reward"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#1DACF9",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "学车指南",
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50
+  }
+}

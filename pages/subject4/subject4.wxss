@@ -1,0 +1,26 @@
+/* pages/subject/subject4/subject4.wxss */
+.examples{
+  width: 94%;
+  margin: 10px auto;
+  border: 1px solid #d7d7d7;
+  background: #fff;
+  padding: 10px 0 37px;
+}
+.examples text{
+  color: #666;
+  font-size: 18px;
+  line-height: 1.5;
+  display: block; 
+  padding: 0 10px;
+}
+.examples image{
+  width: 100%;
+  height: 157px;
+}
+.answer{
+  font-weight: bold;
+  color: #000;
+}
+.right{
+   float: right; 
+}

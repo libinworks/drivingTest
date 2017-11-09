@@ -1,0 +1,28 @@
+/* pages/subject2/subject2.wxss */
+.tips{
+  height: 60px;
+  line-height: 60px;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+.num{
+  color: #fff;
+  background: #00acff;
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+  line-height: 30px;
+  text-align: center;
+  margin-left: -40px;
+}
+.arrow{
+  margin-right: -40px;
+  color: #ccc;
+  font-size: 22px;
+}

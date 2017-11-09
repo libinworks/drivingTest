@@ -1,0 +1,14 @@
+/* pages/subject3/subject3.wxss */
+#formula{
+  padding-top:20px;
+}
+#formula view{
+  color: #666;
+  line-height: 1.6;
+  font-size: 18px;
+  width: 90%;
+  background: #fff;
+  border: 1px solid #d7d7d7;
+  margin: 20px auto;
+  padding: 14px 10px;
+}

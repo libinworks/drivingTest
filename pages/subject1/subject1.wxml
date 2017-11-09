@@ -1,0 +1,13 @@
+<!--pages/subject1/subject1.wxml-->
+<view class="examples" wx:if="{{ example.length }}" wx:for="{{ example }}">
+  <text class="answer" wx:if="{{ item.option1 }}">{{ index+1 }}.选择题：</text>
+  <text class="answer" wx:else>{{ index+1 }}.判断题：</text>
+  <text>{{ item.question }}</text>
+  <image wx:if="{{ item.pic }}" src="{{ item.pic }}"></image>  
+  <text>{{ item.option1 }}</text>
+  <text>{{ item.option2 }}</text>
+  <text>{{ item.option3 }}</text>
+  <text>{{ item.option4 }}</text>
+  <text data-testId="{{ item.answer }}" data-hi="{{ item.explain }}" bindtap="my" class="answer right">参考答案</text>
+</view>
+<include src="../backToTop/backToTop.wxml" />  

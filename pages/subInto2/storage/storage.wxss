@@ -1,0 +1,16 @@
+/* pages/subInto2/storage/storage.wxss */
+#main{
+  padding: 10px;
+}
+#main text{
+  font-size: 18px;
+  color: #333;
+  line-height: 1.5;
+  display: block;
+}
+#main image{
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 20px auto;
+}

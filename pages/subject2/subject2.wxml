@@ -1,0 +1,26 @@
+<!--pages/subject2/subject2.wxml-->
+<navigator url="/pages/subInto2/storage/storage" class="tips">
+  <view class="num">1</view>
+  <view class="content">倒 车 入 库</view>
+  <view class="arrow">➤</view>
+</navigator>
+<navigator url="/pages/subInto2/start/start" class="tips">
+  <view class="num">2</view>
+  <view class="content">爬 坡 起 步</view>
+  <view class="arrow">➤</view>
+</navigator>
+<navigator url="/pages/subInto2/stop/stop" class="tips">
+  <view class="num">3</view>
+  <view class="content">侧 方 停 车</view>
+  <view class="arrow">➤</view>
+</navigator>
+<navigator url="/pages/subInto2/going/going" class="tips">
+  <view class="num">4</view>
+  <view class="content">曲 线 行 驶</view>
+  <view class="arrow">➤</view>
+</navigator>
+<navigator url="/pages/subInto2/turn/turn" class="tips">
+  <view class="num">5</view>
+  <view class="content">直 角 转 弯</view>
+  <view class="arrow">➤</view>
+</navigator>

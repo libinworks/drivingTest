@@ -1,0 +1,19 @@
+<!--pages/indexInto/inside/inside.wxml-->
+<view id="main">
+  <image src="/imgs/indexList2.jpg"></image>
+  <text>自10月1日以来</text>
+  <text>驾考新规已经实行了一个多月了</text>
+  <text>从学员和教练的反馈来看，</text>
+  <text>科二相对来讲比以前难度稍有减小，</text>
+  <text>以前直接不合格的，</text>
+  <text>现在改为扣分，</text>
+  <text>有利于最终通过考试!</text>
+  <text>有学员反应：科二没想象中那么难，好像还变简单了呢</text>
+  <text>但也有学员表示：对于新的驾考规则还不是很熟悉</text>
+  <text>是最大的弊端！！</text>
+  <text>下面</text>
+  <text>这是来自车管所关于科目二最新操作要求和评判标准</text>
+  <text>送给即将考试的你们</text>
+  <text>希望对你有帮助~</text>
+</view>
+<include src="../../backToTop/backToTop.wxml" />  

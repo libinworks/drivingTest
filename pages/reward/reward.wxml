@@ -1,0 +1,14 @@
+<!--pages/reward/reward.wxml-->
+<view id="reward">
+   <image src="/imgs/reward.jpg"></image> 
+   <view class="miao">
+    <view class="describe bold">客官您对我的服务还满意吧！</view>
+    <view class="describe bold">赏点小费吧！</view>
+    <view class="describe">1. 截图本页</view>
+    <view class="describe">2. 在您用完本程序退出到微信首页的时候在点击右上角的“+”中的扫一扫，然后点击右上角的“”选择“从相册中选取二维码”，选择您保存的图片</view>
+    <view class="describe bold">过程繁琐！感谢您的耐心操作！</view>
+   </view>
+   <!-- <view class="list">
+    <view class="btn" bindtap='image'>保存图片</view>
+   </view> -->
+</view>

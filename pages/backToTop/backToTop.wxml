@@ -1,0 +1,6 @@
+<navigator url="/pages/reward/reward" id="money">
+  <image src="/imgs/reward.png"></image>
+</navigator>
+<view id="backTop" wx:if="{{ isTop }}" bindtap="backToTop">
+  <image src="/imgs/backTop.png"></image>
+</view>

@@ -1,0 +1,44 @@
+/* pages/reward/reward.wxss */
+page{
+  background: #1DACF9;
+}
+#reward{
+  /* background: #1DACF9; */
+  overflow: hidden;
+}
+#reward image{
+  width: 324px;
+  height: 324px;
+  display: block;
+  margin: 0 auto;
+}
+.list,.miao{
+  width: 300px;
+  margin: 10px auto;
+  background: rgba(255,255,255,0.2);
+  border-radius: 4px;
+}
+.miao{
+  padding: 10px 0;
+}
+.btn{
+  line-height:40px;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+.describe{
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.6;
+  padding: 0 10px;
+  letter-spacing: 1px;
+}
+.bold{
+  font-weight: bold;
+  font-size: 18px;
+}
+.none{
+  border: 0;
+}

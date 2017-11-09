@@ -1,0 +1,7 @@
+<!--pages/subInto2/storage/storage.wxml-->
+<view id="main">
+  <text>对于很多人而言倒车入库可谓是驾照路上最大的“拦路虎”</text>
+  <text>倒车图解:</text>
+  <image src="/imgs/reversing_1.png"></image>
+  <image src="/imgs/reversing_2.png"></image>
+</view>
